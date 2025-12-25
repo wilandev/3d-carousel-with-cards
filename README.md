@@ -2,10 +2,10 @@
 
 ### Main objective :dart::
 
-- Pratice proprieties: `rotate` and `translate`.
+- Pratice proprieties `rotate` and `translate`.
 
 ### Secondary objective:
-- Get to know property `transform-style` and your value `preserve-3d`.
+- Understanding `transform-style` property and its `preserve-3d` value.
 
 ### Remarkable feature
 - Rotate animation
