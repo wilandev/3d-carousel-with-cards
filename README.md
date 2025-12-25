@@ -1,3 +1,4 @@
+![Cover image and preview](https://github.com/wilandev/3d-carousel-with-cards/blob/main/image.png)
 # Carousel 3D Effect
 
 ### Main objective :dart::
